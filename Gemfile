@@ -1,0 +1,6 @@
+source 'https://rubygems.org'
+gem 'sprockets'
+gem 'rack'
+gem 'sass'
+gem 'sprockets-sass'
+gem 'sprockets-helpers'
